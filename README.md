@@ -385,6 +385,8 @@ Future development will focus on:
 BSc Agricultural and Biosystems Engineering
 Jomo Kenyatta University of Agriculture and Technology (JKUAT)
 
+**George Mutuma**
+
 ### Areas of interest
 
 * Precision Agriculture
