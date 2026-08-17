@@ -39,7 +39,7 @@ To develop an AI-based irrigation advisor for tomato production using weather, c
 
 ## Specific Objectives
 
-- Calculate reference evapotranspiration (ET₀) using the FAO-56 Penman-Monteith method.
+- Calculate reference evapotranspiration (ET₀) using the FAO-56 Penman-Monteith equation method.
 - Estimate crop evapotranspiration (ETc).
 - Develop a tomato crop growth calendar and crop coefficients.
 - Model root-zone soil-water depletion.
